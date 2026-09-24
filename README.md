@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá 👋
+💼 Sou docente no curso técnico em Administração da rede estadual de São Paulo e Analista de Suporte e Gestão no Centro Paula Souza, com atuação voltada à integração entre educação, informação, cultura e gestão organizacional. Também possuo experiência na formação de estudantes em ambientes digitais e colaborativos.
+
+📚 Bacharel em Biblioteconomia e Mestre pela Unesp, desenvolvo pesquisas sobre as relações entre informação, tecnologia, diversidade, design, cultura e processos de gestão, com ênfase em ambientes institucionais, educacionais e digitais.
+
+🎓Graduação em andamento em Análise e Desenvolvimento de Sistemas no IFSP, com interesse em tecnologia, programação e soluções digitais com objetivo de ampliar minha formação e desenvolver conhecimentos voltados à criação, implementação e gestão de sistemas e tecnologias.
+
+🎯 Minha trajetória é marcada pela articulação entre prática pedagógica e visão estratégica, promovendo a aplicação dos conceitos de gestão, tecnologia e informação na construção de processos eficientes, sustentáveis e inovadores.
+
+💡 Acredito que a integração entre informação, tecnologia e gestão constitui um instrumento poderoso de transformação.
 
 <!--
 **simaoapocalypse/simaoapocalypse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
